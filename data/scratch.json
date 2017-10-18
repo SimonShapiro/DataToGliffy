@@ -1,0 +1,70 @@
+{
+  "x": 10,
+  "y": 10,
+  "rotation": 0,
+  "id": "gliff_10",
+  "width": 100.0,
+  "height": 75.0,
+  "uid": "com.gliffy.shape.basic.basic_v1.default.rectangle",
+  "lockAspectRatio": false,
+  "lockShape": false,
+  "order": 0,
+  "graphic": {
+    "type": "Shape",
+    "Shape": {
+      "tid": "com.gliffy.stencil.rectangle.basic_v1",
+      "strokeWidth": 2.0,
+      "strokeColor": "#333333",
+      "fillColor": "#FFFFFF",
+      "gradient": false,
+      "dashStyle": null,
+      "dropShadow": false,
+      "state": 0,
+      "opacity": 1.0,
+      "shadowX": 0.0,
+      "shadowY": 0.0
+    }
+  },
+  "hidden": false,
+  "layer": "40FKXxnOoaFR",
+  "linkMap": [],
+  "children": [
+    {
+      "x": 2,
+      "y": 0,
+      "rotation": 0,
+      "id": "gliff_10Name",
+      "width": 96,
+      "height": 14,
+      "uid": "com.gliffy.shape.basic.basic_v1.default.rectangle",
+      "lockAspectRatio": false,
+      "lockShape": false,
+      "order": 1,
+      "graphic": {
+        "type": "Text",
+        "Text": {
+          "overflow": "none",
+          "paddingTop": 8,
+          "paddingRight": 8,
+          "paddingBottom": 8,
+          "paddingLeft": 8,
+          "outerPaddingTop": 6,
+          "outerPaddingRight": 6,
+          "outerPaddingBottom": 2,
+          "outerPaddingLeft": 6,
+          "type": "fixed",
+          "lineTValue": null,
+          "linePerpValue": null,
+          "cardinalityType": null,
+          "html": "<p style=\"text-align:center;\"><span style=\"font-size:12px;font-family:Arial;text-decoration:none;\"><span style=\"text-decoration:none;\">GLIFF #10</span></span></p>",
+          "tid": null,
+          "valign": "middle",
+          "vposition": "none",
+          "hposition": "none"
+        }
+      },
+      "hidden": false,
+      "layer": "40FKXxnOoaFR"
+    }
+  ]
+}

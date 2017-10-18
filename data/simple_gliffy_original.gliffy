@@ -1,0 +1,233 @@
+{
+  "contentType": "application/gliffy+json",
+  "version": "1.3",
+  "stage": {
+    "background": "#FFFFFF",
+    "width": 627,
+    "height": 382,
+    "nodeIndex": 14,
+    "autoFit": true,
+    "exportBorder": false,
+    "gridOn": true,
+    "snapToGrid": false,
+    "drawingGuidesOn": true,
+    "pageBreaksOn": false,
+    "printGridOn": false,
+    "printPaper": "LETTER",
+    "printShrinkToFit": false,
+    "printPortrait": true,
+    "maxWidth": 5000,
+    "maxHeight": 5000,
+    "themeData": null,
+    "imageCache": null,
+    "viewportType": "default",
+    "fitBB": {
+      "min": {
+        "x": 83,
+        "y": 135
+      },
+      "max": {
+        "x": 627,
+        "y": 382
+      }
+    },
+    "printModel": {
+      "pageSize": "Letter",
+      "portrait": true,
+      "fitToOnePage": false,
+      "displayPageBreaks": false
+    },
+    "objects": [
+      {
+        "x": 10,
+        "y": 10,
+        "rotation": 0,
+        "id": 1,
+        "width": 100.0,
+        "height": 75.0,
+        "lockAspectRatio": false,
+        "lockShape": false,
+        "order": 0,
+        "graphic": {
+          "type": "Shape",
+          "Shape": {
+            "tid": "com.gliffy.stencil.rectangle.basic_v1",
+            "strokeWidth": 2.0,
+            "strokeColor": "#333333",
+            "fillColor": "#FFFFFF",
+            "gradient": false,
+            "dashStyle": null,
+            "dropShadow": false,
+            "state": 0,
+            "opacity": 1.0,
+            "shadowX": 0.0,
+            "shadowY": 0.0
+          }
+        },
+        "hidden": false,
+        "layer": "40FKXxnOoaFR",
+        "uid": [
+          "com.gliffy.shape.basic.basic_v1.default.rectangle"
+        ],
+        "linkMap": [],
+        "children": [
+          {
+            "x": 2,
+            "y": 0,
+            "rotation": 0,
+            "id": 3,
+            "width": 96,
+            "height": 14,
+            "lockAspectRatio": false,
+            "lockShape": false,
+            "order": 1,
+            "graphic": {
+              "type": "Text",
+              "Text": {
+                "overflow": "none",
+                "paddingTop": 8,
+                "paddingRight": 8,
+                "paddingBottom": 8,
+                "paddingLeft": 8,
+                "outerPaddingTop": 6,
+                "outerPaddingRight": 6,
+                "outerPaddingBottom": 2,
+                "outerPaddingLeft": 6,
+                "type": "fixed",
+                "lineTValue": null,
+                "linePerpValue": null,
+                "cardinalityType": null,
+                "html": "<p style=\"text-align:center;\"><span style=\"font-size:12px;font-family:Arial;text-decoration:none;\"><span style=\"text-decoration:none;\">GLIFF #10</span></span></p>",
+                "tid": null,
+                "valign": "middle",
+                "vposition": "none",
+                "hposition": "none"
+              }
+            },
+            "hidden": false,
+            "layer": "40FKXxnOoaFR"
+          }
+        ]
+      },
+      {
+        "x": 80,
+        "y": 10,
+        "rotation": 0,
+        "id": 2,
+        "width": 100.0,
+        "height": 75.0,
+        "lockAspectRatio": false,
+        "lockShape": false,
+        "order": 2,
+        "graphic": {
+          "type": "Shape",
+          "Shape": {
+            "tid": "com.gliffy.stencil.component.uml_v1",
+            "strokeWidth": 2.0,
+            "strokeColor": "#333333",
+            "fillColor": "#FFFFFF",
+            "gradient": false,
+            "dashStyle": null,
+            "dropShadow": false,
+            "state": 0,
+            "opacity": 1.0,
+            "shadowX": 0.0,
+            "shadowY": 0.0
+          }
+        },
+        "hidden": false,
+        "layer": "40FKXxnOoaFR",
+        "uid": [
+          "com.gliffy.shape.uml.uml_v2.component.component1"
+        ],
+        "linkMap": [],
+        "children": [
+          {
+            "x": 2,
+            "y": 0,
+            "rotation": 0,
+            "id": 4,
+            "width": 96,
+            "height": 14,
+            "lockAspectRatio": false,
+            "lockShape": false,
+            "order": 3,
+            "graphic": {
+              "type": "Text",
+              "Text": {
+                "overflow": "none",
+                "paddingTop": 8,
+                "paddingRight": 8,
+                "paddingBottom": 8,
+                "paddingLeft": 8,
+                "outerPaddingTop": 6,
+                "outerPaddingRight": 6,
+                "outerPaddingBottom": 2,
+                "outerPaddingLeft": 6,
+                "type": "fixed",
+                "lineTValue": null,
+                "linePerpValue": null,
+                "cardinalityType": null,
+                "html": "<p style=\"text-align:center;\"><span style=\"font-size:12px;font-family:Arial;text-decoration:none;\"><span style=\"text-decoration:none;\">2</span></span></p>",
+                "tid": null,
+                "valign": "middle",
+                "vposition": "none",
+                "hposition": "none"
+              }
+            },
+            "hidden": false,
+            "layer": "40FKXxnOoaFR"
+          }
+        ]
+      }
+    ],
+    "layers": [
+      {
+        "guid": "40FKXxnOoaFR",
+        "order": 0,
+        "name": "Layer 0",
+        "active": true,
+        "locked": false,
+        "visible": true,
+        "nodeIndex": 9
+      }
+    ],
+    "shapeStyles": {},
+    "lineStyles": {
+      "global": {
+        "endArrow": 1
+      }
+    },
+    "textStyles": {}
+  },
+  "metadata": {
+    "title": "untitled",
+    "revision": 0,
+    "exportBorder": false,
+    "loadPosition": "default",
+    "libraries": [
+      "com.gliffy.libraries.uml.uml_v2.state_machine",
+      "com.gliffy.libraries.uml.uml_v2.deployment",
+      "com.gliffy.libraries.uml.uml_v2.component",
+      "com.gliffy.libraries.uml.uml_v2.use_case",
+      "com.gliffy.libraries.mru",
+      "com.gliffy.libraries.basic.basic_v1.default",
+      "com.gliffy.libraries.flowchart.flowchart_v1.default",
+      "com.gliffy.libraries.swimlanes.swimlanes_v1.default",
+      "com.gliffy.libraries.uml.uml_v2.class",
+      "com.gliffy.libraries.uml.uml_v2.sequence",
+      "com.gliffy.libraries.uml.uml_v2.activity",
+      "com.gliffy.libraries.erd.erd_v1.default",
+      "com.gliffy.libraries.ui.ui_v3.containers_content",
+      "com.gliffy.libraries.ui.ui_v3.forms_controls",
+      "com.gliffy.libraries.images"
+    ],
+    "autosaveDisabled": false,
+    "lastSerialized": 1506535931988,
+    "analyticsProduct": "Online"
+  },
+  "embeddedResources": {
+    "index": 0,
+    "resources": []
+  }
+}
